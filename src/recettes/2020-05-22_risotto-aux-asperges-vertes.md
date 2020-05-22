@@ -17,7 +17,7 @@ Recette de Cyril Lignac dans l'émission "Tous en cuisine" du 19 mai 2020.
 - 1 verre de vin blanc
 - 1 gousse d'ail
 - 50g de beurre
-- Huil d'olive
+- Huile d'olive
 
 ## Préparation (20 minutes)
 
