@@ -1,4 +1,4 @@
-# Crevettes Curry Coco
+# Crevettes au curry coco
 
 Encore une recette de Cyril Lignac dans l'émission "Tous en cuisine" du 22 mai 2020.
 
