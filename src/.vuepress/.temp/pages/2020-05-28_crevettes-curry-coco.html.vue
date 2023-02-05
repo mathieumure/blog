@@ -1,0 +1,54 @@
+<template><div><h1 id="crevettes-au-curry-coco" tabindex="-1"><a class="header-anchor" href="#crevettes-au-curry-coco" aria-hidden="true">#</a> Crevettes au curry coco</h1>
+<p>Encore une recette de Cyril Lignac dans l'émission &quot;Tous en cuisine&quot; du 22 mai 2020.</p>
+<p><img src="https://pbs.twimg.com/media/EYn6xPUXgAInYsh?format=jpg&amp;name=4096x4096" alt="Crevvettes curry coco"></p>
+<h2 id="ingredients" tabindex="-1"><a class="header-anchor" href="#ingredients" aria-hidden="true">#</a> Ingrédients</h2>
+<p><strong>Pour 2 personnes</strong></p>
+<ul>
+<li>250g de crevettes décortiquées</li>
+<li>1 oignon ciselé</li>
+<li>4 gousses d'ail épluchées</li>
+<li>1 grosse tomate lavée et coupée en petits dés</li>
+<li>20 cL de lait de coco</li>
+<li>1/2 jus de citron jaune</li>
+<li>3 feuilles de laurier</li>
+<li>1/2 baton de cannelle (ou une cuillère à café de cannelle en poudre)</li>
+<li>1 cuillère à café de cardamone en poudre</li>
+<li>1 cuillère à café de gingembre en poudre</li>
+<li>1 cuillère à soupe de curcuma (peu être remplacé par du paprika)</li>
+<li>2 cuillères à soupe de curry</li>
+<li>1 cuillère à soupe de piment en poudre</li>
+<li>25 cL d'eau</li>
+<li>huile d'olive</li>
+</ul>
+<h2 id="preparation-30-minutes" tabindex="-1"><a class="header-anchor" href="#preparation-30-minutes" aria-hidden="true">#</a> Préparation (30 minutes)</h2>
+<p><strong>Marinade des crevettes (20/30 minutes)</strong></p>
+<ul>
+<li>Mettre vos crevettes dans un plat.</li>
+<li>Ajouter le curcuma.</li>
+<li>Ajouter le piment.</li>
+<li>Ajouter au moins 3 cuillères à soupe d'huile d'olive.</li>
+<li>Mélanger et laisse mariné pendant <strong>20/30 minutes</strong> en mélangeant de temps en temps.</li>
+</ul>
+<p><strong>Oignon</strong></p>
+<p>Ciseler votre oignon.</p>
+<p><strong>Tomate</strong></p>
+<p>Couper votre tomate en dés.</p>
+<h2 id="cuisson-20-minutes" tabindex="-1"><a class="header-anchor" href="#cuisson-20-minutes" aria-hidden="true">#</a> Cuisson (20 minutes)</h2>
+<ul>
+<li>Faire chauffer de l'huile d'olive (au moins 3 cuillères à soupe) dans une casserole à feu assez fort.</li>
+<li>Ajouter les feuilles de laurier, la cannelle et la cardamone, remuer quelques secondes.</li>
+<li>Faire torréfier le curry dans ce mélange pendant quelques secondes.</li>
+<li>Ajouter l'ail et le gingembre et mélanger.</li>
+<li>Ajouter tout de suite l'oignon ciselé, baisser à feu moyen et faire revenir 1 à 2 minutes.</li>
+<li>Ajouter ensuite la tomate et ajouter les 25 cL d'eau, laisser mijoter à feu doux.</li>
+<li>Dans une poêle chaude, ajouter la marinade de crevettes sans ajouter de matière grasse (faire couler la marinade à l'aide d'une spatule).</li>
+<li>Faire griller vos crevettes, pour qu'elles soient bien dorées de chaque côtés.</li>
+<li>A la fin de la cuisson de vos crevettes, ajouter le lait de coco <strong>en évitant de le faire bouillir</strong>.</li>
+<li>Ajouter ensuite vos crevettes, mélanger pendant quelques secondes.</li>
+<li>Sortir tout de suite du feu.</li>
+<li>Ajouter votre citron et <strong>c'est prêt !</strong>.</li>
+<li>Server accompagné de riz.</li>
+</ul>
+</div></template>
+
+

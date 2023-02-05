@@ -1,13 +1,13 @@
----
-home: true
-heroImage: https://pbs.twimg.com/profile_images/1055793411641491456/duhtH2dl_400x400.jpg
-tagline: Développeur le jour, speaker le soir et geek le reste du temps
-footer: MIT Licensed | Copyright © 2020-present Mathieu Mure
-features:
-- title: Recette
-  details: Il faut bien manger non ? Alors autant que ce soit bon!
-- title: Développeur
-  details: J'ai la chance de pouvoir faire un métier que j'aime. Il m'arrive donc d'en parler.
-- title: Geek
-  details: Série, livres, films, jeux vidéo et j'en passe, j'ai pas beacoup de temps libre 😅 mais j'essais de tenir une liste de ce que je fais!
----
+# Recettes
+
+- [Boeuf bourguignon](/2020-01-01_boeuf_bouguignon)
+- [Crevettes au curry coco](/2020-05-28_crevettes-curry-coco)
+- [Croziflette](/2020-01-01_croziflette)
+- [Gratin de pâtes au chorizo et curry](/2020-01-01_gratin-de-pâtes-au-chorizo-et-curry)
+- [Lasagnes](/2020-01-01_lasagnes)
+- [Pâte à crêpes](/2020-01-01_crepes)
+- [Quiche lorraine](/2020-01-01_quiche-lorraine)
+- [Ramens](/2020-05-30_ramen)
+- [Risotto aux asperges vertes](/2020-05-22_risotto-aux-asperges-vertes)
+- [Tarte à la tomate](/2020-01-01_tarte-a-la-tomate)
+- [Tartiflette](/2020-01-01_tartiflette)

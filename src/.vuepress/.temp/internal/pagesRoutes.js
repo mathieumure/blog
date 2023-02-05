@@ -1,0 +1,15 @@
+export const pagesRoutes = [
+  ["v-1414c0c0","/2020-01-01_boeuf_bouguignon.html",{"title":"Boeuf bourguignon"},["/2020-01-01_boeuf_bouguignon","/2020-01-01_boeuf_bouguignon.md"]],
+  ["v-1128fe07","/2020-01-01_crepes.html",{"title":"Pâte à crêpes"},["/2020-01-01_crepes","/2020-01-01_crepes.md"]],
+  ["v-6bb85d0e","/2020-01-01_croziflette.html",{"title":"Croziflette"},["/2020-01-01_croziflette","/2020-01-01_croziflette.md"]],
+  ["v-85880560","/2020-01-01_gratin-de-p%C3%A2tes-au-chorizo-et-curry.html",{"title":"Gratin de pâtes au chorizo et curry"},["/2020-01-01_gratin-de-pâtes-au-chorizo-et-curry.html","/2020-01-01_gratin-de-p%C3%A2tes-au-chorizo-et-curry","/2020-01-01_gratin-de-pâtes-au-chorizo-et-curry.md","/2020-01-01_gratin-de-p%C3%A2tes-au-chorizo-et-curry.md"]],
+  ["v-a7310592","/2020-01-01_lasagnes.html",{"title":"Lasagnes"},["/2020-01-01_lasagnes","/2020-01-01_lasagnes.md"]],
+  ["v-d106b9a2","/2020-01-01_quiche-lorraine.html",{"title":"Quiche lorraine"},["/2020-01-01_quiche-lorraine","/2020-01-01_quiche-lorraine.md"]],
+  ["v-42f6de0e","/2020-01-01_tarte-a-la-tomate.html",{"title":"Tarte à la tomate"},["/2020-01-01_tarte-a-la-tomate","/2020-01-01_tarte-a-la-tomate.md"]],
+  ["v-7d5d4063","/2020-01-01_tartiflette.html",{"title":"Tartiflette"},["/2020-01-01_tartiflette","/2020-01-01_tartiflette.md"]],
+  ["v-1165eac0","/2020-05-22_risotto-aux-asperges-vertes.html",{"title":"Risotto aux asperges vertes"},["/2020-05-22_risotto-aux-asperges-vertes","/2020-05-22_risotto-aux-asperges-vertes.md"]],
+  ["v-6e0659d8","/2020-05-28_crevettes-curry-coco.html",{"title":"Crevettes au curry coco"},["/2020-05-28_crevettes-curry-coco","/2020-05-28_crevettes-curry-coco.md"]],
+  ["v-7f1968a4","/2020-05-30_ramen.html",{"title":"Ramens"},["/2020-05-30_ramen","/2020-05-30_ramen.md"]],
+  ["v-8daa1a0e","/",{"title":"Recettes"},["/index.html","/README.md"]],
+  ["v-3706649a","/404.html",{"title":""},["/404"]],
+]

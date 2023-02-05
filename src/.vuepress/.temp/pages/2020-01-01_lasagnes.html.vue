@@ -1,0 +1,37 @@
+<template><div><h1 id="lasagnes" tabindex="-1"><a class="header-anchor" href="#lasagnes" aria-hidden="true">#</a> Lasagnes</h1>
+<p><img src="https://assets.afcdn.com/recipe/20180119/76936_w648h414c1cx2680cy1786cxt0cyt0cxb5361cyb3573.jpg" alt="Lasagnes"></p>
+<h2 id="ingredients" tabindex="-1"><a class="header-anchor" href="#ingredients" aria-hidden="true">#</a> Ingrédients</h2>
+<p><strong>Pour 3/4 personnes</strong></p>
+<ul>
+<li>Pâtes à lasagne (sans précuisson)</li>
+<li>600 g de sauce bolognaise (toute faite genre Panzani)</li>
+<li>350 g de viande hachée</li>
+<li>50 g de roquefort</li>
+<li>1 oignon</li>
+<li>100 g de gruyère râpé</li>
+<li>500 mL de béchamel</li>
+</ul>
+<h2 id="preparation" tabindex="-1"><a class="header-anchor" href="#preparation" aria-hidden="true">#</a> Préparation</h2>
+<ul>
+<li>Hacher l'oignon.</li>
+<li>Couper la viande haché</li>
+<li>Couper le roquefort en morceau</li>
+</ul>
+<h2 id="cuisson-35-minutes" tabindex="-1"><a class="header-anchor" href="#cuisson-35-minutes" aria-hidden="true">#</a> Cuisson (35 minutes)</h2>
+<ul>
+<li>Dans une sauteuse, faire revenir les oignons dans de l'huile d'olive.</li>
+<li>Quand les oignons ont bien bruni, y ajouter les 350g de steak haché.</li>
+<li>Faire cuire à feu moyen puis ajouter la sauce bolognaise.</li>
+<li>Ajouter aussi le roquefort</li>
+<li>Ajouter la béchamel.</li>
+<li>Puis dans un plat à gratin, verser une couche de cette préparation puis recouvrir de pâte à lasagne.</li>
+<li>Refaire la même chose jusqu'à épuisement de la sauce (environ 2 fois).</li>
+<li>La dernière couche doit être une couche de sauce.</li>
+<li>Ajouter le gruyère râpé et faire cuire envrion 45 min à 180° (th.6).</li>
+</ul>
+<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<p>Pour savoir si les lasagnes sont cuites, piquer avec un couteau, les pâtes à lasagne doivent être fondantes, donc le couteau doit s'enfoncer sans problème.</p>
+</div>
+</div></template>
+
+
